@@ -1,0 +1,32 @@
+.header {
+    width: 30%;
+    height: 0vh;
+    position:relative;
+    float:right;
+}
+.right {
+    width: 30%;
+    height: 0vh;
+    float: left;
+    position: relative;
+}
+
+.h {
+    background: url(minecraft-stone-wrapping-paper-3-sheets-24.jpg);
+    background-size: contain;
+    font-size: 50px;
+    text-align: center;
+    color:black;
+    border: 10px;
+}
+body {
+    font-size: 50px;
+}
+img {
+    margin-left: 36%;
+}
+a {
+    color: aqua;
+     display: block;
+     margin-left: 43%;
+}
